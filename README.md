@@ -1,2 +1,2 @@
 # alpine-openjdk-builds
-Alpine OpenJDK builds for reference and testing purposes.
+Alpine OpenJDK builds catalogue, for reference and testing purposes.
