@@ -14,10 +14,11 @@ This repository keeps Alpine OpenJDK Java builds in the form of zip files, with 
 
 ### Docker image
 
-All `openjdk8` builds are also available in a consolidated docker image:
+All `openjdk8` builds are also available in a consolidated [docker image][4]:
 
 `docker run -it shaharv/alpine-java-8-builds`
 
 [1]: https://pkgs.alpinelinux.org/package/v3.8/community/x86/openjdk8
 [2]: https://hub.docker.com/_/openjdk
 [3]: https://pkgs.alpinelinux.org/package/v3.8/community/x86/openjdk8-dbg
+[4]: https://hub.docker.com/r/shaharv/alpine-java-8-builds
